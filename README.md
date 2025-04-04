@@ -1,4 +1,6 @@
 # Text to Image Synthesizer
+<small>by Umutesa Munyurangabo</small>
+
 A text-to-image synthesizer creates images based on text descriptions. It uses advanced machine learning techniques to translate linguistic input into visual output using a Generative Adversarial Network (GAN).
  
 ## Why Use GANs?
